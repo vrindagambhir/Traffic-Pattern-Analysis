@@ -1,0 +1,9 @@
+osmnx[default]
+scikit-learn
+scipy
+networkx
+matplotlib
+numpy
+pandas
+streamlit
+polyline
